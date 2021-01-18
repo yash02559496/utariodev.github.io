@@ -14,7 +14,7 @@ body {
 }
 
 #title {
-    background: rgba(0, 0, 0, 0.4) url("..//Image//Homepic//tech.jpg") center center no-repeat;
+    background: rgba(0, 0, 0, 0.4) url("..//image/Homepic//tech.jpg") center center no-repeat;
     background-size: cover;
     background-blend-mode: darken;
     color: #f6f6f6;
