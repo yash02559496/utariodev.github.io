@@ -78,9 +78,9 @@ h1 {
     background: no-repeat center center;
     background-size: 100% 100%;
 }
-
-.img-fluid{
-width: 10px; 
+.img-fluid {
+    max-width: 10%;
+    height: auto;
 }
 
 .text_1 {
